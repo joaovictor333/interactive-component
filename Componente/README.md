@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/Capa.jpg" width="100%">  
+  <img src=".github/Capa.jpg" width="50%">  
 </p>
 
 <br>
